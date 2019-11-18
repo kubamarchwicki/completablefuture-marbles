@@ -1,7 +1,7 @@
 # CompletableFuture marble diagrams
 
 This repository describes the `CompletableFuture` operations with marble diagrams. 
-The `&#42;Async` methods are omitted intentionally (for brevity). The complete `CompletableFuture` documentation is available as link:https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html[javadocs], which unfortunately is not as good as link:https://twitter.com/@tnurkiewicz[Tomasz Nurkiewicz's] article: links:https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html[Java 8: Definitive guide to CompletableFuture].
+The `&#42;Async` methods are omitted intentionally (for brevity). The complete `CompletableFuture` documentation is available as link:https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html[javadocs], which unfortunately is not as good as link:https://twitter.com/@tnurkiewicz[Tomasz Nurkiewicz's] article: links:https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html[Java 8. Definitive guide to CompletableFuture].
 
 The link:http://reactivex.io/documentation/single.html[ReactiveX] webpage is the source of marble diagram images.
 
